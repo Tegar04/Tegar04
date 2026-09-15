@@ -1,27 +1,105 @@
-<h1>Hi 👋, I'm Tegar Putra Gaori</h1>
-<p>A weeb frontend developer from Indonesia. I can do backend just Php & Laravel :v</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.instagram.com/tegarputra_ag21" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tegar04&show_icons=true&locale=en" alt="Tegar04" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tegar04&" alt="Tegar04" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegar04&show_icons=true&locale=en&layout=compact" alt="Tegar04" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tegar04" alt="Tegar04" /></a></p>
+# Hi, I'm Tegar Putra Gaori 👋
+
+### Full Stack Developer from Indonesia 🇮🇩
+
+I’m an Informatics graduate focused on building modern web and mobile applications. I enjoy working across frontend, backend, APIs, databases, and application architecture.
+
+Currently, I'm improving my skills in **Laravel, React, Flutter, REST API development, and scalable backend architecture**.
+
+---
+
+## 👨‍💻 About Me
+
+* 💻 Interested in **Full Stack Web & Mobile Development**
+* 🚀 Building applications using **Laravel, React, Flutter, and MySQL**
+* 🔧 Experienced with REST APIs, CMS, authentication, and database-driven applications
+* 🌱 Currently exploring modern backend architecture and software engineering practices
+* 🎯 Open to **Junior Developer, Full Stack Developer, and Software Engineer opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+PHP • Laravel • REST API
+
+### Frontend
+
+JavaScript • React • Inertia.js • HTML • CSS • Tailwind CSS
+
+### Mobile
+
+Flutter • Dart • GetX
+
+### Database
+
+MySQL
+
+### Tools
+
+Git • GitHub • Postman • VS Code • Laragon • Filament
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ Travel Agency Platform
+
+Full-stack travel booking and management platform built with **Laravel, React, Inertia.js, Filament, and MySQL**.
+
+Key features include:
+
+* Travel package management
+* Customer management
+* Booking system
+* Invoice management
+* Admin dashboard
+* Database relationships and migrations
+
+---
+
+### 🎓 EduShare
+
+Mobile education and collaboration application developed using **Flutter and GetX**.
+
+Key features include:
+
+* Notes management
+* Collaboration
+* Saved content
+* Following system
+* File downloads
+* Speech/transcription features
+
+---
+
+### 🏛️ Government Service Portal
+
+Web-based government service portal with a custom **PHP & MySQL CMS**.
+
+Key features include:
+
+* Public and internal service management
+* Custom admin dashboard
+* Service categorization
+* Search and filtering
+* Slider management
+* Authentication and session security
+* CSRF protection
+* REST-style API endpoints
+
+---
+
+## 📊 GitHub Stats
+
+GitHub statistics can be added here later.
+
+---
+
+## 📫 Connect With Me
+
+I'm open to opportunities, collaboration, and software development projects.
+
+**LinkedIn:** Add your LinkedIn URL
+**Portfolio:** Coming Soon

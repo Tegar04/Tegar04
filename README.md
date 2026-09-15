@@ -101,5 +101,5 @@ GitHub statistics can be added here later.
 
 I'm open to opportunities, collaboration, and software development projects.
 
-**LinkedIn:** Add your LinkedIn URL
+**LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/in/tegar-putra-gaori-0739b22a4 )
 **Portfolio:** Coming Soon

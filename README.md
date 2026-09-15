@@ -102,4 +102,5 @@ GitHub statistics can be added here later.
 I'm open to opportunities, collaboration, and software development projects.
 
 **LinkedIn:** [Click Linkedin Here!](https://www.linkedin.com/in/tegar-putra-gaori-0739b22a4 )
-**Portfolio:** Coming Soon
+**Email:** tegargaori123@gmail.com
+**Portfolio:** Coming Soo
